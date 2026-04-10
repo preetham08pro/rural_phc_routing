@@ -1,0 +1,7 @@
+temperature,oxygen,bp,age,symptoms,severity,doctor,room,timestamp
+37.0,98.0,120,20,headache,LOW,Neurologist,OPD,2026-04-11 04:34:52
+35.0,55.0,120/80,23,heart pain,EMERGENCY,Cardiologist,ICU,2026-04-11 04:35:47
+40.0,55.0,120/80,31,,EMERGENCY,On Call,ICU,2026-04-11 04:38:56
+40.0,55.0,120.0,25,,High,Dr Kumar,ICU,2026-04-11 04:40:33
+38.0,55.0,130.0,30,,High,Dr Kumar,ICU,2026-04-11 04:41:28
+30.0,55.0,140.0,34,,High,Dr Kumar,ICU,2026-04-11 04:51:03
