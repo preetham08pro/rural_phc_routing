@@ -1,2 +1,24 @@
-# rural_phc_routing
-AI-powered real-time patient triage system for rural healthcare. Built using Flask and Next.js, it classifies patients based on vital signs and displays live data on a doctor dashboard. Supports remote monitoring, smart prioritization, and efficient resource allocation in medical environments.
+# AI Triage System for Rural PHC
+
+## Overview
+This project is a smart healthcare triage system designed for rural Primary Health Centers (PHC). It helps classify patients into Low, Moderate, and Emergency risk levels.
+
+## Features
+- Patient vital analysis (Temperature, Oxygen, BP, Pulse)
+- Risk classification (Low, Moderate, Emergency)
+- CSV-based patient data storage
+- Dashboard visualization
+- Doctor access system
+
+## Tech Stack
+- Python (Flask)
+- HTML, CSS
+- JavaScript
+- Matplotlib
+
+## How to Run
+pip install -r requirements.txt  
+python app.py  
+
+## Use Case
+Helps rural hospitals prioritize patients efficiently and detect emergencies early.
